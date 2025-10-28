@@ -1,7 +1,7 @@
 {
-	"name": "com.PackageSample.core",
+	"name": "com.jhf.core",
 	"version": "1.0.0",
-	"displayName": "PackageSample Core",
+	"displayName": "jhf Core",
 	"description": "Demo Package for Thesis",
 	"Uniy":  "6000.2",
 	"unityRelease": "7f2",

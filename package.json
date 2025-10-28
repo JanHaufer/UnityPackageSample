@@ -1,0 +1,17 @@
+{
+	"name": "com.PackageSample.core",
+	"version": "1.0.0",
+	"displayName": "PackageSample Core",
+	"description": "Demo Package for Thesis",
+	"Uniy":  "6000.2",
+	"unityRelease": "7f2",
+	"documentationUrl": "https://github.com/JanHaufer/UnityPackageSample",
+	"author": {
+		"name": "Jan Haufer",
+		"email": "jan.haufer@csi-online.de",
+		"url": "https://github.com/JanHaufer/UnityPackageSample"
+	},
+	"dependencies": {
+
+	}
+}

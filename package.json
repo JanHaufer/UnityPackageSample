@@ -1,6 +1,6 @@
 {
 	"name": "com.jhf.core",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"displayName": "jhf Core",
 	"description": "Demo Package for Thesis",
 	"unity":  "6000.2",
